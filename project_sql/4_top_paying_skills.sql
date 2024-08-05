@@ -23,7 +23,7 @@ GROUP BY
     skills
 ORDER BY 
     avg_salary DESC
-LIMIT 25
+LIMIT 10
 
 /*
 Certainly ! Here are the key trends condensed into three main bullet points: 
